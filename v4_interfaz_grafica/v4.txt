@@ -1,0 +1,13 @@
+# Versión 4: Interfaz Gráfica (GUI) 🖥️
+
+## Descripción
+El proyecto dejó de ser una herramienta de línea de comandos para convertirse en una aplicación de escritorio visual e interactiva para el usuario final.
+
+## Conceptos Aplicados
+- **Librería Tkinter:** Creación de ventanas, botones, etiquetas y campos de entrada.
+- **Event Driven Programming:** Vinculación de botones con funciones lógicas del backend.
+- **UX/UI:** Diseño de formularios usando `Grid Layout` y feedback visual mediante `MessageBox`.
+- **Validación de Datos (Sanitización):** Limpieza de cadenas de texto (`strip`, `title`) y manejo de listas antes de enviar los datos a la BD.
+
+---
+*Estado: Aplicación de escritorio funcional (Frontend + Backend).*

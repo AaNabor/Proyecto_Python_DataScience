@@ -1,0 +1,13 @@
+# Versión 1: Lógica y Algoritmos Básicos 🧠
+
+## Descripción
+En esta etapa inicial, el enfoque fue traducir la lógica de programación (pseudocódigo) a la sintaxis real de Python. El sistema funcionaba mediante scripts secuenciales y estructuras de control básicas.
+
+## Conceptos Aplicados
+- **Variables y Tipos de Datos:** Strings, Integers, Floats.
+- **Estructuras de Control:** Uso de condicionales (`if/elif/else`) para validar edades o notas.
+- **Ciclos:** Implementación de bucles (`for` y `while`) para iterar sobre listas de datos.
+- **Entrada/Salida:** Uso básico de `print()` e `input()` en la consola.
+
+---
+*Estado: Prototipo inicial en consola.*

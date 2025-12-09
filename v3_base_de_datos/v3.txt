@@ -1,0 +1,13 @@
+# Versión 3: Persistencia de Datos y SQL 💾
+
+## Descripción
+El sistema adquirió "memoria". Se implementó una capa de datos para que la información sobreviva al cerrar el programa, simulando un entorno de producción real.
+
+## Conceptos Aplicados
+- **Base de Datos Relacional:** Conexión con **SQLite3**.
+- **CRUD:** Uso de sentencias SQL (`CREATE`, `INSERT`) para gestionar registros.
+- **Manejo de Archivos:** Generación automática de reportes académicos en formato `.txt` (`open`, `write`).
+- **Manejo de Excepciones:** Bloques `try-except` para gestionar errores de conexión o escritura.
+
+---
+*Estado: Backend robusto con almacenamiento permanente.*

@@ -1,0 +1,13 @@
+# Versión 2: Programación Orientada a Objetos (POO) 🏗️
+
+## Descripción
+Aquí el proyecto sufrió una reestructuración mayor. Dejamos atrás el código secuencial para modelar el sistema basándonos en objetos, acercándonos a una arquitectura de software profesional.
+
+## Conceptos Aplicados
+- **Clases y Objetos:** Definición de la clase `Estudiante` como molde para los datos.
+- **Herencia:** Creación de una clase padre `Persona` para reutilizar atributos comunes.
+- **Encapsulamiento:** Protección de atributos sensibles (como las calificaciones) para evitar modificaciones externas no autorizadas.
+- **Métodos:** Funciones integradas dentro de las clases para manejar el comportamiento de los objetos.
+
+---
+*Estado: Código modular y organizado.*

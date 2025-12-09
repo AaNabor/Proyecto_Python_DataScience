@@ -1,0 +1,16 @@
+# Versión 5: Analytics y Visualización (Final) 📊
+
+## Descripción
+Esta es la versión definitiva del proyecto. Integra todas las etapas anteriores y añade capacidades de **Ciencia de Datos** para analizar la información almacenada.
+
+## Características Nuevas
+- **Visualización de Datos:** Integración de la librería **Matplotlib**.
+- **Análisis Gráfico:** Generación de gráficos de barras para comparar el rendimiento académico de los estudiantes registrados en la base de datos.
+- **Consultas SQL Analíticas:** Extracción de datos específicos (`SELECT`) optimizados para la graficación.
+
+## Cómo ejecutar esta versión
+1. Instalar dependencias: `pip install matplotlib`
+2. Ejecutar el archivo principal: `python interfaz_grafica.py`
+
+---
+*Estado: Proyecto "Full Stack" con capacidades de Data Science.*

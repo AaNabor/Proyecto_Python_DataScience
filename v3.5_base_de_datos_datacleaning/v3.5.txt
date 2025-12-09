@@ -1,0 +1,8 @@
+# Versión 3.5: Interfaz Gráfica (GUI) 🖥️
+
+## Conceptos Aplicados
+
+- **Validación de Datos (Sanitización):** Limpieza de cadenas de texto (`strip`, `title`) y manejo de listas antes de enviar los datos a la BD.
+
+---
+*Estado: Aplicación de escritorio funcional (Frontend + Backend).*
